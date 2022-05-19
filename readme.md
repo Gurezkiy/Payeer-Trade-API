@@ -5,7 +5,7 @@ Library for work with Payer Trade API: https://payeer.com/api/trade/
 * [Usage](#usage)
 * [Available Methods](#available-methods)
 
-##Usage
+## Usage
 You shall wrap API calls using try {} catch() {} to handle any errors.
 <br>
 ```php
@@ -21,7 +21,7 @@ try {
 }
 ```
 
-##Available Methods
+## Available Methods
 
 ```php
 $api->time();
@@ -38,5 +38,5 @@ $api->historyMy(user: $user, params: $params = []);
 $api->tradesMy(user: $user, params: $params = []);
 ```
 
-##Licence
+## Licence
 MIT
