@@ -1,0 +1,10 @@
+.idea
+vendor
+composer.lock
+.env.*.php
+.env.php
+.env
+.DS_Store
+Homestead.yaml
+Homestead.json
+test.php
